@@ -1,12 +1,14 @@
 import React from "react";
 import "./Metodologia.css";
+import Logo from "../../img/pexels-photo-968299.png";
 
 export default function Metodologia() {
     return (
         <section>
 
             <div className="video">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/cie58F82h7I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/dqR5k50qszY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
 
 
