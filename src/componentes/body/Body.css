@@ -45,6 +45,7 @@
   border: none;
   border-radius: 50px;
   background-color: rgb(0, 215, 243);
+  /* background-color: orangered; */
 
   font-size: 20px;
   margin-top: 5%;
@@ -106,6 +107,8 @@
     width: 100%;
     padding: 5%;
     padding-bottom: 80%;
+
+    /* text-align: center; */
   }
 
   .intro h1 {
