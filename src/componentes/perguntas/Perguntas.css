@@ -49,6 +49,7 @@ details {
     position: relative;
 }
 
+
 .title:after {
     /* content:'⛛'; */
     content: '🔻';
@@ -72,6 +73,8 @@ details[open] .title:after {
     font-size: 14px;
     line-height: 21px;
     padding: 14px;
+
+    text-align: start;
 }
 
 
@@ -120,4 +123,33 @@ details[open] .title:after {
         padding-top: 190%;
         padding-bottom: 70%;
     }
+
+    .title {
+        padding: 10%;
+    }
+}
+
+
+@media(max-width:450px) {
+    .container {
+        padding-top: 350%;
+    }
+
+    .collapse {
+        width: 95%;
+    }
+
+    /* .title {
+        padding: 10%;
+    } */
+}
+
+@media(max-width:350px) {
+    .container {
+        padding-top: 370%;
+    }
+
+    /* .title {
+        padding: 10%;
+    } */
 }
