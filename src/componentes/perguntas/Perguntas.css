@@ -8,7 +8,9 @@
 .container h1 {
     color: rgb(0, 215, 235);
     margin-bottom: 3%;
+    font-weight: 900;
 }
+
 
 summary {
     list-style: none;
@@ -44,7 +46,7 @@ details {
 .title {
     padding: 16px;
     cursor: pointer;
-    font-weight: 600;
+    font-weight: 800;
 
     position: relative;
 }
@@ -70,7 +72,9 @@ details[open] .title:after {
 
 .description {
     border-top: rgba(0, 0, 0, 0.089) solid 1px;
+    /* font-size: .9rem; */
     font-size: 14px;
+    font-weight: 600;
     line-height: 21px;
     padding: 14px;
 

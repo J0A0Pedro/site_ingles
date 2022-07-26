@@ -14,8 +14,10 @@ export default function Perguntas() {
             </details>
 
             <details class="collapse">
-                <summary class="title">Pergunta 2 </summary>
-                <div class="description">Teste</div>
+                <summary class="title">O conteúdo do Wise Up Online é o mesmo das escolas Wise Up?</summary>
+                <div class="description">Não. Na plataforma do Wise Up Online você encontra uma metodologia única que aborda o idioma aplicado à situações reais.<br /><br />
+                    No tema Travel, situações que a pessoa provavelmente irá passar em viagens ao exterior. E no tema Business, que ensina o inglês aplicado ao mundo dos negócios. Dessa forma, você desenvolve seu inglês enquanto aprende sobre a cultura norte americana e assuntos relevantes para o crescimento profissional.<br />
+                    A plataforma é recomendada tanto para aprender o inglês do zero e de forma independente quanto para servir de complemento ao seu aprendizado com a Wise Up escola.</div>
             </details>
 
             <details class="collapse">
